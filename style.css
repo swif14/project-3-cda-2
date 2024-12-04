@@ -1,0 +1,312 @@
+body {
+    background-color: #2B2B2B;
+    font-family: "Work sans";
+}
+
+@font-face {
+    font-family: "Work sans";
+    src: url("fonts/WorkSans-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family:"Space mono" ;
+    src: url("fonts/SpaceMono-Regular.ttf");
+}
+
+.signup {
+    width: 152px;
+    height: 60px;
+    gap: 12px;
+    border-radius: 20px ;
+    background-color: #A259FF;
+    border: 0;
+    outline: none;
+    font-family: "Work sans";
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: center;
+    background-image: url("User.png");
+    background-repeat: no-repeat;
+    background-position:20px center;
+    padding-left: 10px;
+}
+
+.nav-item {
+    margin-left:40px;
+}
+
+.image-fluid {
+    
+    height: auto;
+}
+
+.title {
+    font-size: 51px;
+    font-weight: 600;
+    line-height: 56.1px;
+    text-align: left;
+    color: white;
+    margin: 0;
+}
+
+.ptext1 {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35.2px;
+    text-align: left;
+    color: #858584;
+}
+
+.ptext2 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 35.2px;
+    text-align: left;
+    color: #858584;
+    font-family: "Space mono";
+    margin: 0;
+}
+
+.ptext3 {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35.2px;
+    text-align: left;
+   color: white;
+}
+
+.ptext4 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 35.2px;
+    text-align: left;
+    color: #858584;
+    font-family:"Space mono" ;
+    margin: 0;
+}
+
+.ptext5 {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 30.8px;
+    text-align: left;
+    color: white;
+}
+
+.ptag1 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 35.2px;
+    text-align: left;
+    color: #858584;
+    font-family: "Space mono";
+}
+
+.ptag2 {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35.2px;
+    text-align: left;
+    font-family: "Space mono";
+    color: #858584;
+}
+
+.button1 {
+    width: 100%;
+    height: 46px;
+    border-radius: 20px;
+    opacity: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: center;
+    background-color: #3B3B3B;
+    border: 0;
+    outline: none;
+    color: white;
+}
+
+.ptag3 {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 13.2px;
+    text-align: left;
+    font-family: "Space mono";
+    color: #adadad;
+}
+
+.ptag7 {
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 45.6px;
+    text-align: left;
+    color: white;
+    margin: 0;
+}
+
+
+.grey {
+    background-color: #3B3B3B;
+    border-radius: 20px;
+}
+
+.button2 {
+    width: 235px;
+    height: 60px;
+    border-radius: 20px;
+    opacity: 0px;
+    background-color: #A259FF;
+    border: 0;
+    outline: none;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: center;
+    color: white;
+}
+
+.ptext6 {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 39.2px;
+    text-align: left;
+    color: white;
+}
+
+.button3 {
+    width: 267px;
+    height: 60px;
+    border-radius: 20px;
+    border: 2px solid #A259FF;
+    opacity: 0px;
+    background-color: #2B2B2B;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: center;
+    color: white;
+    background-image: url("ArrowRight.png");
+    background-repeat: no-repeat;
+    background-position: 20px center;
+    float: right;
+}
+
+.ptag4 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: #CCCCCC;
+}
+
+.ptag5 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 35.2px;
+    text-align: left;
+    color: white;
+}
+
+.greyy {
+     background-color: #3B3B3B;
+}
+
+.btnn2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 179px;
+    height: 60px;
+    border-radius: 20px;
+    opacity: 0px;
+    background-color: #A259FF;
+    color: white;
+    outline: none;
+    border: 0;
+}
+
+.label {
+    position: relative;
+    margin-top: 13px;
+}
+
+.input4 {
+    width: 425px;
+    height: 60px;
+    gap: 12px;
+    border-radius: 20px ;
+    outline: none;
+    border: 0;
+    padding-left: 20px;
+
+}
+
+.btnn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #A259FF;
+    color: white;
+    width: 211px;
+    height: 60px;
+    gap: 12px;
+    border-radius: 20px;
+    outline: none;
+    border: 0;
+    background-image: url("EnvelopeSimple.png");
+    background-repeat: no-repeat;
+    background-position: 25px center;
+    padding-left: 20px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.margin {
+    margin-left: 105px;
+}
+
+
+@media screen and (max-width:768px) {
+
+    .ptext3 {
+        font-size: 16px;
+    }
+
+    .col-lg-4 {
+        width: 315px;
+    }
+
+    .button3 {
+        width: 350px;
+    }
+
+    .btnn2 {
+        width: 350px;
+        margin-top: 66px;
+    }
+
+    .input4 {
+        width: 350px;
+    }
+
+    .button3 {
+        float: left;
+    }
+
+    .margin {
+        margin-left: 10px;
+    }
+
+    .clasi {
+        display: block;
+        margin: auto;
+    }
+
+    .ptext6 {
+        margin-left:17px ;
+    }
+}
